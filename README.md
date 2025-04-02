@@ -55,6 +55,8 @@ Here are some ideas to get you started:
   <img src="assets/Dataverse_scalable.svg" width="40" height="40" alt="Dataverse" />
   <img src="assets/CopilotStudio_scalable.svg" width="40" height="40" alt="Copilot Studio" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="40" height="40" alt="Figma" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" width="40" height="40" alt="Google Apps Script" />
+
 
 </div>
 
