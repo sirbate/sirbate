@@ -22,7 +22,6 @@ Here are some ideas to get you started:
     <li>💬 Pregúntame sobre desarrollo low-code, automatización de flujos o cómo sobrevivir a la primera app con Power Platform 😄</li>
     <li>📬 Puedes contactarme en: <a href="mailto:serdna2010@gmail.com">serdna2010@gmail.com</a> o al 📱 +57 3133487628</li>
     <li>🔗 También en <a href="https://www.linkedin.com/in/andresvelasquezb/" target="_blank">LinkedIn</a></li>
-    <li>⚡ Fun fact: Yo solo quería programar aplicaciones sencillas... ¡y terminé automatizando empresas con Power Platform!</li>
   </ul>
 <!-- Hero Section
 -->
