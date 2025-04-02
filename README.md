@@ -24,5 +24,15 @@ Here are some ideas to get you started:
     <li>🔗 También en <a href="https://www.linkedin.com/in/andresvelasquezb/" target="_blank">LinkedIn</a></li>
     <li>⚡ Fun fact: Yo solo quería programar aplicaciones sencillas... ¡y terminé automatizando empresas con Power Platform!</li>
   </ul>
-<!-- Hero Section -->
+<!-- Hero Section
+-->
+<ul style="list-style: none; padding-left: 0; line-height: 1.8;">
+<h2>🧃 Fuera del teclado...</h2>
+
+  <li>🎬 Fan del buen <strong>cine</strong> y las <strong>series que te hacen cuestionar la vida</strong>.</li>
+  <li>✈️ <strong>Viajar</strong> es el mejor <em>debug</em> mental.</li>
+  <li>🌱 Tengo más <strong>plantas</strong> que excusas para no regarlas.</li>
+  <li>⚽ Apasionado por el <strong>fútbol</strong>, aunque mi equipo me haga sufrir.</li>
+  <li>🏎️ Sí, grito en las curvas de la <strong>F1</strong>. Lo asumo.</li>
+</ul>
 
