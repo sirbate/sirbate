@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   <img src="assets/PowerFx_scalable.svg" width="40" height="40" alt="Power Fx" />
   <img src="assets/PowerPages_scalable.svg" width="40" height="40" alt="Power Pages" />
   <img src="assets/PowerPlatform_scalable.svg" width="40" height="40" alt="Power Platform" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg.png" width="40" height="40" alt="SharePoint" />
+<img src="https://www.logo.wine/a/logo/SharePoint/SharePoint-Logo.wine.svg" width="40" height="40" alt="SharePoint" />
   <img src="assets/Dataverse_scalable.svg" width="40" height="40" alt="Dataverse" />
   <img src="assets/CopilotStudio_scalable.svg" width="40" height="40" alt="Copilot Studio" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="40" height="40" alt="Figma" />
