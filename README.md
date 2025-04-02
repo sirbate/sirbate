@@ -43,9 +43,20 @@ Here are some ideas to get you started:
 
 <!--- **Languages**:-->
 
-<img src="https://learn.microsoft.com/en-us/power-platform/guidance/icons/media/powerapps.svg" width="40" height="40" alt="Power Apps" />
-<img src="https://learn.microsoft.com/en-us/power-platform/guidance/icons/media/power-bi.svg" width="40" height="40" alt="Power BI" />
-<img src="https://learn.microsoft.com/en-us/power-platform/guidance/icons/media/sharepoint.svg" width="40" height="40" alt="SharePoint" />
+<!-- Power Platform Stack -->
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-top: 1rem;">
+  <img src="assets/PowerApps_scalable.svg" width="40" height="40" alt="Power Apps" />
+  <img src="assets/PowerAutomate_scalable.svg" width="40" height="40" alt="Power Automate" />
+  <img src="assets/PowerBI_scalable.svg" width="40" height="40" alt="Power BI" />
+  <img src="assets/PowerFx_scalable.svg" width="40" height="40" alt="Power Fx" />
+  <img src="assets/PowerPages_scalable.svg" width="40" height="40" alt="Power Pages" />
+  <img src="assets/PowerPlatform_scalable.svg" width="40" height="40" alt="Power Platform" />
+  <img src="assets/SharePoint.svg" width="40" height="40" alt="SharePoint" /> <!-- si tenés uno de SharePoint -->
+  <img src="assets/Dataverse_scalable.svg" width="40" height="40" alt="Dataverse" />
+  <img src="assets/CopilotStudio_scalable.svg" width="40" height="40" alt="Copilot Studio" />
+  <img src="assets/AIBuilder_scalable.svg" width="40" height="40" alt="AI Builder" />
+</div>
+
 
 
 
