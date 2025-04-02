@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
   <ul>
     <li>🛠️ Actualmente creando soluciones empresariales con Power Apps, Power Automate.</li>
-    <li>🌱 Siempre estoy aprendiendo algo nuevo. Hoy es diseño UI/, mañana... quién sabe. ¡Vamos por más!</li>
+    <li>🌱 Siempre estoy aprendiendo algo nuevo. Hoy es diseño UI/UX, mañana... quién sabe. ¡Vamos por más!</li>
     <li>🎯 Me apasiona convertir procesos complejos en apps simples, funcionales y bien diseñadas.</li>
     <li>🤝 Abierto a colaborar en proyectos que combinen innovación, automatización. ¿Tienes uno? ¡Hablemos!</li>
     <li>💬 Pregúntame sobre desarrollo low-code, automatización de flujos o cómo sobrevivir a la primera app con Power Platform 😄</li>
