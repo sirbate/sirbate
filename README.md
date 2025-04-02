@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <li>🏎️ Sí, grito en las curvas de la <strong>F1</strong>. Lo asumo.</li>
 </ul>
 
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Skills</b></h2>
+<h2><b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">   Skills</b></h2>
 
 <p align="center">
 
